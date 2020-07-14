@@ -1,1 +1,2 @@
-alert('Build out javascript');
+
+console.log(50);
