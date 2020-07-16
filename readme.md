@@ -12,3 +12,10 @@ Patch today :
 - created mongodb free cluster for the database
 - establised the connection from mongo atlas using mongooise
 - created backend for users and ads ( not 100% completed yet)
+
+## 16-07-2020
+Patch notes
+- creating simple front end using react
+- connecting backend with front end
+- displaying the data from database to front end
+- 100% progress simple CRUD using MERN 
