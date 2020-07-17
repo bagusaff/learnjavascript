@@ -1,0 +1,36 @@
+Project timeline :
+- Create react project > npx create-react-app ilangnemu ( creat react project with the directory )
+- cd ilangnemu
+- create backend folder > mkdir backend 
+- npm init -y to create package.json
+- npm install express cors mongoose dotenv
+- npm install -g nodemon
+
+> backend
+- create server.js on backend folder
+- create .env on backend folder
+
+> models
+- create models folder
+- create ads.model.js
+- create user.model.js
+
+- Create API Inpoin Route 
+
+> routes
+- create ads.js
+- create users.js 
+
+
+- Create front end using react
+- editing index.html
+- npm install bootstrap
+- edit app.js import bootstrap
+- npm install react-router
+- edit app.js import Router from react-router-dom
+- create all component files
+- import all component files into app.js
+- npm install react-datepicker
+
+- connecting the front end to back end using axios library
+- npm install axios
