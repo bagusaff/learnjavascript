@@ -1,3 +1,4 @@
+//all mongoose schema use the same
 const mongoose = require('mongoose');
 const Schema = mongoose.Schema;
 

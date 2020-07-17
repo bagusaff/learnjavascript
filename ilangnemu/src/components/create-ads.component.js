@@ -22,7 +22,7 @@ export default class CreateAds extends Component{
             users: []
         }
     }
-
+    //otomatis akan dipanggil saat pertama website nge-load
     componentDidMount(){
         axios.get('http://localhost:5000/users/')
         .then(response=> {
