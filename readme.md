@@ -19,3 +19,8 @@ Patch notes
 - connecting backend with front end
 - displaying the data from database to front end
 - 100% progress simple CRUD using MERN 
+
+## 17-07-2020
+Patch notes
+- adding comments to make code more understandable
+- adding timeline.txt for my own notes
