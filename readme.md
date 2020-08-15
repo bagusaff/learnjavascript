@@ -24,3 +24,9 @@ Patch notes
 Patch notes
 - adding comments to make code more understandable
 - adding timeline.txt for my own notes
+
+## 15-08-2020
+Finally able to code again
+- create new directory for a new project, mern-login system
+- create a boilerplate code
+- not yet connecting the database
